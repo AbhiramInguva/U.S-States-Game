@@ -74,10 +74,4 @@ Contributions to the U.S. States Game project are welcome! If you have ideas for
 3. Make your changes and test thoroughly.
 4. Submit a pull request explaining your changes.
 
-## License
-
-The U.S. States Game project is licensed under the [MIT License](LICENSE).
-
----
-
 Feel free to explore, learn, and enjoy the process of guessing the U.S. states with the U.S. States Game! If you encounter any issues or have questions, please don't hesitate to [contact us](mailto:contact@example.com).
